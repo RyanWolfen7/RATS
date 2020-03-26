@@ -163,6 +163,15 @@ export default () => {
 }
 ```
 
+## Future Features
+
+I will continually add on to this future plans include
+- custom styles
+- dynamic form
+- dynamic models
+- validation
+- user login(possibly) 
+
 ## CREATE REACT APP STUFF
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
