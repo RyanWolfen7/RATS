@@ -3,7 +3,7 @@
 
 ## About This Repo
 
-This Repo is my bootstap skelleton for my preffered Tech Test Setup. I was tired of redoin it for every tech test. I preffer this style for its simplicity and ease of use. This is a very bare bones skelleton and should only be used as a basic start to a front end app. I used Create React App for the initial setup and then set up the file structure to my liking. Feel free to modify, download, or even send a PR with sujestions. 
+This Repo is my bootstap skelleton for my preffered Tech Test Setup. I was tired of redoing it for every tech test. I preffer this style for its simplicity and ease of use. This is a very bare bones skelleton and should only be used as a basic start to a front end app. I used Create React App for the initial setup and then set up the file structure to my liking. Feel free to modify, download, or even send a PR with sujestions. 
 
 The structure was inspired by my good friend Ahmad (https://github.com/cozmoc)
 I will most likely create a typescript version here soon. RATTS
