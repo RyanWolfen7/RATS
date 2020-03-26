@@ -55,7 +55,7 @@ I aim to keep this repo as vanilla as possible outside of these packages:
 
 - src/index.js
 
-The main index.js uses the Profider function by react-redux. The provider loads our redux store from store.js. Then the Router wrappes the main app component which we pass the routes into it.
+The main index.js uses the Profider function by react-redux. The provider loads our redux store from store.js. Then the Router wraps the main app component which we pass the routes into it.
 
 This set up is ideal because it follows the Single Responsibility Principle. The index should only be the anchor point for rendering on the root DOM.
 
