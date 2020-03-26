@@ -116,7 +116,7 @@ export default () => {
 }
 ```
 
-If you have a large app and need many routes you can refactor it. Just make a folder src/routes/index.js and creat files that export the route
+If you have a large app and need many routes you can refactor it. Just make a folder src/routes/index.js and create files that export the route
 
 #### example
 
@@ -138,9 +138,9 @@ src/routes/list.js
 export default () => {
     return (
         <Route
-                component={MainView}
+                component={list}
                 exact
-                path={'/'}
+                path={'/books/list'}
             />
     )
 }
